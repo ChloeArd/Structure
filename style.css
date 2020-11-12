@@ -100,3 +100,34 @@ body {
     height: 5rem;
     background-color: #D2D3AB;
 }
+
+@media screen and (max-width: 735px) {
+    .gauche, .droite, .section1, .section2, .contient1, .article, .aside, .aside1, .aside2, .aside3, .nav {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    #container, .gauche, .nav, .droite, .section1, .section2 {
+        width: 100%;
+    }
+
+    .gauche, .nav {
+        height: 7rem;
+    }
+
+    .article, .aside1 {
+        margin-top: 3rem;
+    }
+
+    .aside3 {
+        margin-left: 70%;
+        margin-top: 5%;
+        height: 80%;
+    }
+
+    .contient1 {
+        height: 90%;
+    }
+
+
+}
