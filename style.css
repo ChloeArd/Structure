@@ -43,7 +43,6 @@ section {
     padding-top: 1rem;
     padding-left: 2rem;
     text-align: left;
-
 }
 
 .section1 {
@@ -51,10 +50,6 @@ section {
     margin-bottom: 2rem;
     padding-top: 5rem;
     padding-bottom: 5rem;
-}
-
-.section2 {
-
 }
 
 article {
@@ -79,15 +74,10 @@ aside {
 .aside1 {
     margin-bottom: 1rem;
     margin-left: 20rem;
-
-    /*position: absolute;
-    top: 15.2rem;*/
 }
 
 .aside2 {
     margin-left: 20rem;
-    /*position: absolute;
-    top: 23rem;*/
 }
 
 .aside3 {
